@@ -17,7 +17,7 @@ const Hero = () => {
         </Link>
       </div>
       <div className="banner">
-        <img src="/hero.png" alt="hero" />
+        <img src="/hero.jpg" alt="hero" />
       </div>
     </section>
   );
